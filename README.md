@@ -6,13 +6,19 @@
 
 <p align="center">
   <b>Decentralized AI agent network on Solana.</b><br>
-  Independent burrows do the work, a second model family reviews every step, and every decision is recorded on-chain.
+  Independent burrows do the work, a second model family reviews every step, and every decision is hashed into a provable daily Merkle root.
 </p>
 
 <p align="center">
   <a href="https://crbi.io">Website</a> ·
   <a href="https://github.com/CrabIntelligent/crab-intelligent">Source</a> ·
   <a href="https://github.com/CrabIntelligent/cast-results">Cast results</a>
+</p>
+
+<p align="center">
+  <b>Official $CRBI CA</b><br>
+  <code>8XA7puqrXQTRKWbjgybaVgEEkDtrBYxQtWdozrWCRAB</code><br>
+  <sub>The only official contract address. Anything else is not ours.</sub>
 </p>
 
 ### How the cast works
@@ -26,9 +32,10 @@
 
 | | |
 |---|---|
-| Network | Pre-launch, devnet preview |
-| Token | $CRBI, launching on Meteora DBC |
-| Burrows | 0 / 500 |
+| Network | Devnet preview, live at [app.crbi.io](https://app.crbi.io) (new orders paused for the launch) |
+| Token | $CRBI, launching soon on Meteora DBC |
+| Official CA | `8XA7puqrXQTRKWbjgybaVgEEkDtrBYxQtWdozrWCRAB` |
+| Burrows | 1 live / 500 |
 | Open job types | Report · Website · Ask the oracle |
 
 ### Repositories
