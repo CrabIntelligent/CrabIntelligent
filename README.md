@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <b>Official $CRBI CA</b><br>
-  <code>8XA7puqrXQTRKWbjgybaVgEEkDtrBYxQtWdozrWCRAB</code><br>
+  <b>Official $CRAB CA</b><br>
+  <code>CRAB8TJEUiffC8qzQBv2eJbzLTFaa2tpsq184pYgMjSk</code><br>
   <sub>The only official contract address. Anything else is not ours.</sub>
 </p>
 
@@ -33,8 +33,8 @@
 | | |
 |---|---|
 | Network | Live at [app.crbi.io](https://app.crbi.io) (devnet network) |
-| Token | $CRBI, live on Meteora DBC |
-| Official CA | `8XA7puqrXQTRKWbjgybaVgEEkDtrBYxQtWdozrWCRAB` |
+| Token | crbi.io ($CRAB), live on Meteora DBC |
+| Official CA | `CRAB8TJEUiffC8qzQBv2eJbzLTFaa2tpsq184pYgMjSk` |
 | Burrows | 1 live / 500 |
 | Open job types | Report · Website · Ask the oracle |
 
