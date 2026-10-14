@@ -32,8 +32,8 @@
 
 | | |
 |---|---|
-| Network | Devnet preview, live at [app.crbi.io](https://app.crbi.io) (new orders paused for the launch) |
-| Token | $CRBI, launching soon on Meteora DBC |
+| Network | Live at [app.crbi.io](https://app.crbi.io) (devnet network) |
+| Token | $CRBI, live on Meteora DBC |
 | Official CA | `8XA7puqrXQTRKWbjgybaVgEEkDtrBYxQtWdozrWCRAB` |
 | Burrows | 1 live / 500 |
 | Open job types | Report · Website · Ask the oracle |
