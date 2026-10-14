@@ -27,7 +27,7 @@
 | | |
 |---|---|
 | Network | Pre-launch, devnet preview |
-| Token | $CRBI, not launched |
+| Token | $CRBI, launching on Meteora DBC |
 | Burrows | 0 / 500 |
 | Open job types | Report · Website · Ask the oracle |
 
